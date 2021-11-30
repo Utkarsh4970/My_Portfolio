@@ -7,7 +7,7 @@ export default function Project() {
     const data = [
         {
             id: '1',
-            icon: 'hotelL',
+            icon: 'hoteL',
             linkSite: 'httify.app',
             linkGithub: '',
             linkBlog:
@@ -55,10 +55,10 @@ export default function Project() {
             linkSite: 'httpsfy.app',
             linkGithub: 'httels.com',
             linkBlog:
-                'https://rsion-57165d6eef3f',
+                'https://rsion-5165d6eef3f',
             title: 'Project Name',
             desc: 'Hs through localized websites.',
-            img: 'hotel.png',
+            img: 'hotel.ng',
         },
         {
             id: '2',
@@ -68,19 +68,19 @@ export default function Project() {
             linkBlog:
                 'httpsgel-co-d7718733313c',
             title: 'Project Name',
-            desc: 'investors, and job-seekers looking to work at startups.',
-            img: 'angel.png',
+            desc: 'ijob-seekers looking to work at startups.',
+            img: 'angelpng',
         },
         {
             id: '3',
-            icon: 'myglampng',
-            linkSite: 'https:/netlify.app',
+            icon: 'myglapng',
+            linkSite: 'https:/nelify.app',
             linkGithub: 'https://gick/myGlamm',
             linkBlog:
-                'https://medm-com-a-cloned-version-703f06e7e9cf',
+                'https://medm-com-a-drsion-703f06e7e9cf',
             title: 'Project Name ',
-            desc: 'ffers an online beauty products marketplace.',
-            img: 'glamm.png',
+            desc: 'ffers an onliney products marketplace.',
+            img: 'gla.png',
         },
         {
             id: '4',
@@ -88,30 +88,31 @@ export default function Project() {
             linkSite: 'https://.app/',
             linkGithub: 'https://-Project',
             linkBlog:
-                'https://medium.com/ion-49e9d2391dca',
+                'https://medom/ion-49e9d2391dca',
             title: 'Project Name',
             desc: 'Tu founded in 2007.',
-            img: 'tumblr.png',
+            img: 'tumbpng',
         },
         {
             id: '1',
             icon: 'hotg',
             linkSite: 'httpslify.app',
-            linkGithub: 'https:/ect-Hotels.com',
+            linkGithub: 'https:t-Hotels.com',
             linkBlog:
-                'https://me5d6eef3f',
+                'https://m6eef3f',
             title: 'Project Name.com',
             desc: 'Hoized websites.',
-            img: 'hotel.png',
+            img: 'hotpng',
         },
         {
             id: '2',
             icon: 'angeg',
-            linkSite: 'httpsetlify.app',
-            linkGithub: 'https:t-angel',
+            linkSite: 'httpsify.app',
+            linkGithub: 'htt:t-angel',
             linkBlog:
-                'https://med-d7718733313c',
+                'https://m-d7718733313c',
             title: 'Project Name',
+            desc: '  marketplace.',
             img: 'angg',
         },
         {
@@ -123,11 +124,11 @@ export default function Project() {
                 'https:n-703f06e7e9cf',
             title: 'Project Name ',
             desc: '  marketplace.',
-            img: 'glamm.g',
+            img: 'glam.g',
         },
         {
             id: '4',
-            icon: 'https://encrwEbUTXaDIA&usqp=CAU',
+            icon: 'https://encrwUTXaDIA&usqp=CAU',
             linkSite: 'https:/etlify.app/',
             linkGithub: 'https:oject',
             linkBlog:
