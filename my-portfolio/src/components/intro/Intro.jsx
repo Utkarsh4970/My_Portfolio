@@ -19,7 +19,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed:60,
-      strings: ["Web Developer", "Blogger"],
+      strings: ["Web Developer", "MERN Developer"],
     });
   }, []);
 
@@ -27,7 +27,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer" data-aos="fade-right">
-          <img src="abhishek.png" alt=""/>
+          <img className= "Intropic" src="Utkarsh_image.jpg" alt="Utkarsh_Pic"/>
         </div>
       </div>
       <div className="right">
@@ -40,9 +40,9 @@ export default function Intro() {
           </h3>
           <br />
           <div className="contact" data-aos="fade-up">
-            <a href="https://github.com/abhishekmah" target="blank"><FaGithub className="icon"/></a>
-            <a href="https://twitter.com/honest_Coder" target="blank"><FaTwitterSquare className="icon"/></a>
-            <a href="https://www.linkedin.com/in/abhishekmah/" target="blank"><GrLinkedin className="icon"/></a>
+            <a href="https://github.com/Utkarsh4970" target="blank"><FaGithub className="icon"/></a>
+            <a href="https:" target="blank"><FaTwitterSquare className="icon"/></a>
+            <a href="https://linkedin.com/in/utkarsh075/" target="blank"><GrLinkedin className="icon"/></a>
           </div>
         </div>
       </div>

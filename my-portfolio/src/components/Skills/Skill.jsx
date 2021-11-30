@@ -79,7 +79,7 @@ export default function Skill() {
     ];
     return (
         <div className="skill" id="skill">
-            <h1>Skills</h1>
+            <h1>Tech Stacks</h1>
             <hr className="hr" />
             <div className="container">
                 {data.map((d) => (

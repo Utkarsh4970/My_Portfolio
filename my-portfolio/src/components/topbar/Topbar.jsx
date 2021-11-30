@@ -8,7 +8,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             <div className="wrapper">
                 <div className="left">
                     <div className="logoImg">
-                        <img src="abhiLogo.png" />
+                        <img src="abhiLogo.png" alt="Utkarsh_icon" />
                     </div>
                     <div className="itemContainer">
                         <Person className="icon" />
@@ -37,7 +37,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     </div>
                     <div className="itemContainer1" id="lastDiv">
                         <a
-                            href="https://drive.google.com/file/d/1gW1X5KnVRla6NMQZ3Adk42qvqBrK1Fjr/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1FvBeYT92hWs1CfiqRILNNKNVssEV-RYv/view?usp=sharing"
                             target="blank"
                             id="last"
                         >
