@@ -13,9 +13,9 @@ const About = () => {
                 </div>
                 <div className="aboutRight">
                     <h1>I'm Utkarsh Kumar, a <span style={{ color: "#18d26e"}}>Full Stack Web Developer</span></h1>
-                    <p>A passionate Developer, with strong administrative and communication skills, good attention to detail and with the ability to write efficient code using MERN Stack.</p>
+                    <p>A Full Stack Developer, with strong administrative and communication skills, good attention to detail and with the ability to write efficient code using MERN Stack.</p>
 
-                    <p>I have been developing Web Apps for over 6 months now. Well versed in coding using Javascript and its frameworks.</p>
+                    <p>I have been developing Web Apps for over 7 months now. Well versed in coding using Javascript and its frameworks.</p>
 
                     <p>As I grow and flourish as a Developer, one thing which keeps me going is my inquisitiveness for discovering new things every day.</p>
                 </div>

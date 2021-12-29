@@ -30,7 +30,7 @@ export default function Project() {
         {
             id: '3',
             icon: 'https://yt3.ggpht.com/ytc/AKedOLRFUwGzCCBxXeK_2uTZSK5g7Gn1-Uq6-Ydhlw3T=s900-c-k-c0x00ffffff-no-rj',
-            linkSite: 'https:/',
+            linkSite: 'https://interntheoryclone.netlify.app/',
             linkGithub: 'https://github.com/AbhijitAher/Unit3_InternTheory',
             linkBlog:
                 'https://',
@@ -74,10 +74,10 @@ export default function Project() {
         {
             id: '3',
             icon: 'https://yt3.ggpht.com/ytc/AKedOLRFUwGzCCBxXeK_2uTZSK5g7Gn1-Uq6-Ydhlw3T=s900-c-k-c0x00ffffff-no-rj',
-            linkSite: 'https:/',
+            linkSite: 'https://interntheoryclone.netlify.app/',
             linkGithub: 'https://github.com/AbhijitAher/Unit3_InternTheory',
             linkBlog:
-                'https://',
+                'https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922',
             title: 'Intern Theory',
             desc: 'Provide Intern All across India and sell its own products..',
             img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcKivBmkuQSPuH7wb1RTpi07CTJbIDeS5Mw&usqp=CAU',
@@ -118,10 +118,10 @@ export default function Project() {
         {
             id: '3',
             icon: 'https://yt3.ggpht.com/ytc/AKedOLRFUwGzCCBxXeK_2uTZSK5g7Gn1-Uq6-Ydhlw3T=s900-c-k-c0x00ffffff-no-rj',
-            linkSite: 'https:/',
+            linkSite: 'https://interntheoryclone.netlify.app/',
             linkGithub: 'https://github.com/AbhijitAher/Unit3_InternTheory',
             linkBlog:
-                'https://',
+                'https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922',
             title: 'Intern Theory',
             desc: 'Provide Intern All across India and sell its own products..',
             img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcKivBmkuQSPuH7wb1RTpi07CTJbIDeS5Mw&usqp=CAU',
@@ -129,10 +129,10 @@ export default function Project() {
         {
             id: '4',
             icon: 'https://yt3.ggpht.com/ytc/AKedOLRFUwGzCCBxXeK_2uTZSK5g7Gn1-Uq6-Ydhlw3T=s900-c-k-c0x00ffffff-no-rj',
-            linkSite: 'https:/',
+            linkSite: 'https://interntheoryclone.netlify.app/',
             linkGithub: 'https://github.com/AbhijitAher/Unit3_InternTheory',
             linkBlog:
-                'https://',
+                'https://medium.com/@roushankumar6338/building-the-clone-of-intern-theory-website-90b975b4d922',
             title: 'Intern Theory',
             desc: 'Provide Intern All across India and sell its own products..',
             img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcKivBmkuQSPuH7wb1RTpi07CTJbIDeS5Mw&usqp=CAU',
